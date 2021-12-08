@@ -8,6 +8,7 @@ namespace TestProject1
         [SetUp]
         public void Setup()
         {
+            print("Hello");
         }
 
         [Test]
